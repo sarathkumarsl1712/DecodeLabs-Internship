@@ -1,5 +1,3 @@
-# DecodeLabs Data Analytics Internship 2026
-
 ## Project 1: Data Cleaning & Preparation
 
 ### Intern Details
@@ -89,13 +87,6 @@ The dataset was successfully cleaned and validated by:
 
 * Microsoft Excel
 
-## Repository Structure
-
-Project1_Data_Cleaning/
-│
-├── DecodeLabs_Project1_Cleaned_Dataset.xlsx
-└── README.md
-
 ## Learning Outcome
 
 Through this project, I learned how to:
@@ -106,6 +97,3 @@ Through this project, I learned how to:
 * Document data-cleaning processes professionally.
 * Prepare datasets for analytical workflows.
 
-## Status
-
-Project Completed Successfully
