@@ -44,7 +44,3 @@ The dataset contains 1,200 e-commerce transaction records with information such 
 - Coupon Usage
 - Referral Source
 - Total Price
-
-## Author
-Sarath Kumar U
-DecodeLabs Data Analytics Internship
